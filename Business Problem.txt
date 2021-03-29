@@ -1,0 +1,11 @@
+Veganism has been around since 1944, when it was introduced to the world as the encouragement to use of alternatives to animal products. But Veganism wasn’t that popular back then.
+It was only in the XXI century and with the help of the Internet that considerable amounts of people started becoming adepts of this lifestyle.
+
+Identifying the Business Problem:
+
+A group of Canadian investors decided to make a move and take advantage of this scenario of the Veganism growth around the world to start a vegan restaurant in a promising city. 
+After considering the possible cities, the investors decided that they would start the restaurant in one of the two following cities: Toronto or Vancouver.
+
+The main question is “Which city is more promising for the vegan restaurant?” To answer it, there are some interesting questions we could ask in order to strengthen and 
+consolidate our final answer, such as “Which city has more competition?”, “Where are the competition located in the city?” and “Is veganism more popular in Toronto or in 
+Vancouver?”.
