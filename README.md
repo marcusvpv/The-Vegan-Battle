@@ -24,4 +24,3 @@ The data used in this project was gathered from:
 
 Foursquare API
 Google Trends
-Canadian 2016 Census
