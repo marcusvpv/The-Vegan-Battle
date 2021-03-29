@@ -1,0 +1,2 @@
+Required data for this project are the coordinates of Toronto and Vancouver via the Geocoder package, Venue data regarding Vegan and Vegetarian restaurants in the cities 
+analyzed via the Foursquare API and data regarding the popularity of Veganism in Canada via Google Trends.
